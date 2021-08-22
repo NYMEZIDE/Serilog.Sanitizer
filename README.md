@@ -1,4 +1,4 @@
-[![Avalab.Serilog.Sanitizer](https://gitlab.avalab.io/uploads/-/system/project/avatar/98/Avalab.Serilog.Sanitizer.png)](https://gitlab.avalab.io/Shared/Avalab.Serilog.Sanitizer)
+[![Avalab.Serilog.Sanitizer](Avalab.Serilog.Sanitizer.png)](https://github.com/NYMEZIDE/Serilog.Sanitizer)
 
 # Avalab.Serilog.Sanitizer [![build status](https://gitlab.avalab.io/Shared/Avalab.Serilog.Sanitizer/badges/master/build.svg)](https://gitlab.avalab.io/Shared/Avalab.Serilog.Sanitizer/tree/master)
 
